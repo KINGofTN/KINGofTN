@@ -1,3 +1,6 @@
 # Hi, I am Ruban
+
+### About me :
+
 - College student
-- Physicst + Young developer
+- physicist + Young developer
